@@ -2628,5 +2628,5 @@ https://arxiv.org/abs/2310.11440
 
 ---
 ## 📜 License
-This list is under the **MIT License**.  
+This list is under the **Apache-2.0 license**.  
 Each dataset or benchmark has its **own license** — please check before use.
