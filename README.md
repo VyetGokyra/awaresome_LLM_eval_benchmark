@@ -2122,6 +2122,13 @@ https://arxiv.org/abs/2501.03200
 - **License:** CC-BY-4.0
 - **Year:** 2025
 
+### ISC-Bench
+- **Description:** Internal Safety Collapse benchmark — evaluates a novel failure mode where LLMs produce harmful content as a side effect of completing normal professional tasks. No adversarial prompting needed. Jailbreaks any frontier LLM in pass@3 (Claude Opus 4.6, GPT-5.4, Gemini 3.1 Pro). Cross-domain: 8+ professional disciplines including AI/ML, biology, chemistry, cybersecurity, epidemiology, pharmacology, genomics, media. Three attack modes: single-turn, in-context learning, and agentic execution.
+- **Paper:** https://arxiv.org/abs/2603.23509
+- **Code:** https://github.com/wuyoscar/ISC-Bench
+- **License:** MIT License
+- **Year:** 2026
+
 ### HarmBench
 - **Description:** Adversarial behaviors including cybercrime, copyright violations, and generating misinformation (https://www.harmbench.org). 
 - **Paper:** https://arxiv.org/abs/2402.04249
