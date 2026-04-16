@@ -2578,6 +2578,16 @@ https://arxiv.org/abs/1804.09301
 
 ## 🗂 Safety,domain-specific
 
+### SecLens
+- **Description:** Evaluates LLMs on real-world security vulnerability detection using 406 confirmed CVE tasks across 10 programming languages. Scores each model through 5 stakeholder lenses (developer, security engineer, AppSec lead, CISO, compliance officer) over 35 scoring dimensions.
+- **Paper:** SecLens: Evaluating LLMs for Security Vulnerability Detection Through Multi-Stakeholder Analysis
+https://arxiv.org/abs/2604.01637
+- **Code:** https://github.com/mattersec-labs/seclens
+- **Dataset:** see repo
+- **Examples:** 406
+- **License:** MIT License
+- **Year:** 2026
+
 ### HealthBench
 - **Description:** Realistic healthcare scenarios: emergency referrals, global health, health data tasks, context-seeking, expertise-tailored communication, response depth, and responding under uncertainty.
 - **Paper:** HealthBench: Evaluating Large Language Models
