@@ -729,6 +729,16 @@ https://arxiv.org/abs/2004.02709
 
 ## 🗂 Domain-specific
 
+### ESGenius
+- **Description:** First benchmark for LLM knowledge of Environmental, Social, and Governance (ESG) and sustainability; expert-validated multiple-choice questions with a curated source corpus for retrieval-augmented evaluation. Evaluates 50 LLMs under Zero-Shot and RAG.
+- **Paper:** ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge
+https://aclanthology.org/2025.emnlp-main.739/
+- **Code:** https://github.com/ANGEL-NTU/ESGenius
+- **Dataset:** https://huggingface.co/datasets/cy0307/ESGenius
+- **Examples:** 1136
+- **License:** Apache 2.0
+- **Year:** 2025
+
 ### ClinicBench
 - **Description:** Datasets and clinical tasks that are common in real-world medical practice, e.g., open-ended decision-making, long document processing, and emerging drug analysis.
 - **Paper:** Large Language Models in the Clinic: A Comprehensive Benchmark 
