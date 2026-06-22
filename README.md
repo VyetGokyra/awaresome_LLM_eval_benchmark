@@ -729,6 +729,16 @@ https://arxiv.org/abs/2004.02709
 
 ## 🗂 Domain-specific
 
+### MMESGBench
+- **Description:** First benchmark for multimodal understanding and complex reasoning over real-world ESG (Environmental, Social, and Governance) documents. 933 expert-validated QA pairs over 45 documents across 7 document types and 3 ESG source categories, with single-page, cross-page, and unanswerable questions and fine-grained multimodal (text/table/chart) evidence.
+- **Paper:** MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks
+https://arxiv.org/abs/2507.18932
+- **Code:** https://github.com/Zhanglei1103/MMESGBench
+- **Dataset:** https://github.com/Zhanglei1103/MMESGBench
+- **Examples:** 933
+- **License:** see dataset page
+- **Year:** 2025
+
 ### ClinicBench
 - **Description:** Datasets and clinical tasks that are common in real-world medical practice, e.g., open-ended decision-making, long document processing, and emerging drug analysis.
 - **Paper:** Large Language Models in the Clinic: A Comprehensive Benchmark 
