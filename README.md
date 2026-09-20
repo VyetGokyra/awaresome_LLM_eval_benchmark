@@ -1078,6 +1078,16 @@ https://arxiv.org/abs/2401.00396
 
 ## 🗂 Instruction-following
 
+### StructEval
+- **Description:** A benchmark for evaluating language models' ability to generate and convert structured outputs across 18 text and renderable formats, with syntax, structural-fidelity, and visual-fidelity checks.
+- **Paper:** StructEval: A Benchmark for Evaluating the Structural Fidelity of LLM-Generated Outputs
+https://arxiv.org/abs/2505.20139
+- **Code:** https://github.com/TIGER-AI-Lab/StructEval
+- **Dataset:** https://huggingface.co/datasets/TIGER-Lab/StructEval
+- **Examples:** 2035
+- **License:** see repository and dataset pages
+- **Year:** 2025
+
 ### Infobench
 - **Description:** Evaluating Large Language Models' (LLMs) ability to follow instructions by breaking complex instructions into simpler criteria, facilitating a detailed analysis of LLMs' compliance with various aspects of tasks.
 - **Paper:** INFOBENCH: Evaluating Instruction Following Ability in Large Language Models 
