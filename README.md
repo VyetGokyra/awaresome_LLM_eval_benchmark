@@ -13,6 +13,16 @@ A curated list of **250+ benchmarks** for **Large Language Models (LLMs)** evalu
 ---
 ## 🗂 Agents & tools use
 
+### PerspectiveGap
+- **Description:** Tests whether an LLM can write orchestration prompts for multi-agent systems: given a set of roles and shuffled information fragments, the model must assign each fragment to the right sub-agent without leaking irrelevant context. Covers 110 scenarios across 10 loop topologies.
+- **Paper:** PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting
+https://arxiv.org/abs/2606.08878
+- **Code:** https://github.com/WhymustIhaveaname/PerspectiveGap
+- **Dataset:** https://huggingface.co/datasets/sun1245/PerspectiveGap
+- **Examples:** 110
+- **License:** MIT
+- **Year:** 2026
+
 ### ColBench
 - **Description:** A new benchmark, where an LLM agent interacts with a human collaborator over multiple turns to solve realistic tasks in backend programming and frontend design.
 - **Paper:** SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks 
@@ -2120,6 +2130,16 @@ https://arxiv.org/abs/2109.00590
 - **Year:** 2021
 
 ## 🗂 Safety
+
+### DRIFT
+- **Description:** Probes a model's middle-layer hidden states to detect factually wrong outputs at inference time, without external retrieval. The probes are 3M-37M parameters, add less than 0.1% latency, and transfer across datasets without retraining.
+- **Paper:** DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness
+https://arxiv.org/abs/2601.14210
+- **Code:** nan
+- **Dataset:** nan
+- **Examples:** nan
+- **License:** nan
+- **Year:** 2026
 
 ### FACTS Grounding
 - **Description:** A measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations.
