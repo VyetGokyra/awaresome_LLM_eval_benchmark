@@ -1162,6 +1162,16 @@ https://arxiv.org/abs/2310.03214
 - **License:** Apache-2.0 license
 - **Year:** 2023
 
+### BKP-500 (Bharat Knowledge Probe)
+- **Description:** Tests whether models know India-specific conventions: lakh/crore arithmetic and digit grouping, state land units, traditional mass units, the Indian fiscal year, crop calendars, government schemes and structural identifiers (PAN, GSTIN, IFSC, PIN). 7 categories, deterministically graded with no LLM judge. Released by Sthānika AI.
+- **Paper:** Bharat Knowledge Probe (BKP-500): Does Your Model Know Where It Is? (technical report)
+https://sthanika.ai/research/bkp500-2026
+- **Code:** https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark
+- **Dataset:** https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark
+- **Examples:** 552
+- **License:** CC-BY-NC-4.0 (dataset), Apache-2.0 (code)
+- **Year:** 2026
+
 ## 🗂 Knowledge,language & reasoning
 
 ### MMLU Pro
