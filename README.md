@@ -737,6 +737,16 @@ https://arxiv.org/abs/2004.02709
 - **License:** see dataset page
 - **Year:** 2020
 
+### SciΠvot
+- **Description:** Tests the scientific judgment of LLM research agents at pivotal decisions. Senior researchers ran LLM agents on 26 projects in 6 scientific fields for 6 months and corrected the agents' research decisions. Each case asks the model to choose between the original LLM plan and the human-corrected plan. Frontier models systematically prefer the original LLM plan, and 4 of 5 score below chance.
+- **Paper:** SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents
+https://arxiv.org/abs/2610.21082
+- **Code:** https://github.com/AutoResearch-Factory/SciPIvot
+- **Dataset:** https://huggingface.co/datasets/sun1245/SciPIvot
+- **Examples:** 248
+- **License:** CC-BY-4.0
+- **Year:** 2026
+
 ## 🗂 Domain-specific
 
 ### MMESGBench
